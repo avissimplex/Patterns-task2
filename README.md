@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/klxust2mx7wg3c2f?svg=true)](https://ci.appveyor.com/project/avissimplex/patterns-task2)
